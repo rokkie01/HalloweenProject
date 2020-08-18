@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="EmailLibrary">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/EmailLibrary" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/EmailLibrary" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Desktop/EmailLibrary" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/EmailLibrary" recursive="false" type="SOURCES" />
+  </library>
+</component>
