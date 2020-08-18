@@ -10,12 +10,7 @@ public class ReturnMethods4 {
 
             System.out.println(Arrays.toString(a3));
             System.out.println( a3[0] );
-
-
         }
-
-
-
         public static int[] combine2Arrays(int[] arr1, int[] arr2){
             int[] arr3 = new int[arr1.length + arr2.length];
 
