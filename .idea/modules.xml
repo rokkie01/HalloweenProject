@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HalloweenProject/HalloweenProject.iml" filepath="$PROJECT_DIR$/HalloweenProject/HalloweenProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticeCukeRunner/PracticeCukeRunner.iml" filepath="$PROJECT_DIR$/PracticeCukeRunner/PracticeCukeRunner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Summer2020CucumberTestAutomationProject/Summer2020CucumberTestAutomationProject.iml" filepath="$PROJECT_DIR$/Summer2020CucumberTestAutomationProject/Summer2020CucumberTestAutomationProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebOrdersAutomationSummer2020/WebOrdersAutomationSummer2020.iml" filepath="$PROJECT_DIR$/WebOrdersAutomationSummer2020/WebOrdersAutomationSummer2020.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cybertek-library-app/cybertek-library-app.iml" filepath="$PROJECT_DIR$/cybertek-library-app/cybertek-library-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sleleniumprojectb20/sleleniumprojectb20.iml" filepath="$PROJECT_DIR$/sleleniumprojectb20/sleleniumprojectb20.iml" />
+    </modules>
+  </component>
+</project>
